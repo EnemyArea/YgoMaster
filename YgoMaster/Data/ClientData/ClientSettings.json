@@ -31,7 +31,8 @@
     "DuelClientDisableCutinAnimationsForCardsWithCustomImages": true,
     "DuelClientSpectatorRapidTimeMultiplayer": 10,// Time multiplier applied when spectating duels "From now" as opposed to "From the Beginning" (used until the first time LIVE is displayed)
     "DuelClientTimeMultiplier": 0,// Time multiplier applied during duels (a value of 0 means no change)
-    "ReplayControlsXOffset": 100,// UI offset which is used when replay controls are forced to always be visible (this is used otherwise it will overlap with other UI elements)
+    "ReplayControlsXOffset": 300,// UI offset which is used when replay controls are forced to always be visible (this is used otherwise it will overlap with other UI elements)
+    "ReplayControlsYOffset": 105,
     "ReplayControlsAlwaysEnabled": false,
     "ReplayControlsTimeMultiplier": 0,// Time multiplier applied when pressing fast forward on the replay controls (a value of 0 means no change)
     "TimeMultiplier": 0,// Time multiplier applied at all times (a value of 0 means no change)

@@ -312,13 +312,15 @@ namespace YgomGame.Duel
                 if (obj != IntPtr.Zero)
                 {
                     GameObject.SetActive(GameObject.GetParentObject(obj), true);
-                    if (ClientSettings.ReplayControlsXOffset != 0)
+                    if (ClientSettings.ReplayControlsXOffset != 0 || ClientSettings.ReplayControlsYOffset != 0)
                     {
                         IntPtr transform = GameObject.GetTransform(obj);
                         AssetHelper.Vector2 offsetMin = rectTransforOffsetMin.GetGetMethod().Invoke(transform).GetValueRef<AssetHelper.Vector2>();
                         AssetHelper.Vector2 offsetMax = rectTransforOffsetMax.GetGetMethod().Invoke(transform).GetValueRef<AssetHelper.Vector2>();
-                        offsetMin.x -= ClientSettings.ReplayControlsXOffset;
-                        offsetMax.x -= ClientSettings.ReplayControlsXOffset;
+                        offsetMin.x += ClientSettings.ReplayControlsXOffset;
+                        offsetMax.x += ClientSettings.ReplayControlsXOffset;
+                        offsetMin.y += ClientSettings.ReplayControlsYOffset;
+                        offsetMax.y += ClientSettings.ReplayControlsYOffset;
                         rectTransforOffsetMin.GetSetMethod().Invoke(transform, new IntPtr[] { new IntPtr(&offsetMin) });
                         rectTransforOffsetMax.GetSetMethod().Invoke(transform, new IntPtr[] { new IntPtr(&offsetMax) });
                     }
