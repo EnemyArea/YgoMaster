@@ -1373,6 +1373,17 @@ namespace YgoMasterClient
                             return;
                         }
 
+                        Dictionary<string, object> craftCompensation = MiniJSON.Json.Deserialize(YgomSystem.Utility.ClientWork.SerializePath("$.Master.CraftCompensation")) as Dictionary<string, object>;
+                        Dictionary<int, int> cardIdsWithCraftCompensation = new Dictionary<int, int>();
+                        foreach (KeyValuePair<string, object> compensation in craftCompensation)
+                        {
+                            Dictionary<string, object> compensationData = compensation.Value as Dictionary<string, object>;
+                            if (compensationData != null)
+                            {
+                                cardIdsWithCraftCompensation[Utils.GetValue<int>(compensationData, "card_id")] = Utils.GetValue<int>(compensationData, "compensation_id");
+                            }
+                        }
+
                         Dictionary<string, object> cardRareData = MiniJSON.Json.Deserialize(YgomSystem.Utility.ClientWork.SerializePath("$.Master.CardRare")) as Dictionary<string, object>;
                         List<object> cardCraftData = MiniJSON.Json.Deserialize(YgomSystem.Utility.ClientWork.SerializePath("$.Master.CardCr")) as List<object>;
                         HashSet<int> craftableCardIds = new HashSet<int>();
@@ -1389,7 +1400,7 @@ namespace YgoMasterClient
                         foreach (object value in cardCraftData)
                         {
                             int cardId = (int)Convert.ChangeType(value, typeof(int));
-                            if (cardId != 0)
+                            if (cardId != 0 && !cardIdsWithCraftCompensation.ContainsKey(cardId))
                             {
                                 craftableCardIds.Add(cardId);
                             }
