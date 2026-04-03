@@ -54,6 +54,7 @@
     1000039,//S:P Little Knight
     1000041,//Number 41: Bagooska the Terribly Tired Tapir
     1000042,//Yummy★Snatchy
+    1000043,//Dinowrestler Pankratops
     1001001,//Instant Fusion
     1001002,//Noble Arms - Caliburn
     1001003,//Book of Moon
@@ -90,6 +91,7 @@
     1001036,//Ghost Belle & Haunted Mansion
     1001037,//Gem-Turtle
     1001038,//Fabled Lurrie
+    1001040,//Gimmick Puppet Egg Head
     1002001,//Soccer Ball
     1002002,//Basketball
     1002003,//Record Player
@@ -239,7 +241,13 @@
     1010129,//Santa Claws
     1010130,//Miracle Raven
     1010131,//Gagaga Academy Emergency Network
+    1010132,//Artmage Graflare
+    1010133,//Radiant Typhoon Meghala
+    1010134,//Destiny HERO - Plasma
+    1010136,//Cow
+    1010137,//Red Blossoms from Underroot
     1010138,//Dark Magician
+    1010139,//Sangan
     1011001,//Soccer Ball
     1011002,//Trophy
     1011003,//Diamond
@@ -305,6 +313,9 @@
     1011063,//DC 2025 DEC Gold Finalist
     1011064,//DC 2025 DEC Silver Finalist
     1011065,//DC 2025 DEC Bronze Finalist
+    1011066,//DC 2026 MAR Gold Finalist
+    1011067,//DC 2026 MAR Silver Finalist
+    1011068,//DC 2026 MAR Bronze Finalist
     1012001,//X-Krawler Synaphysis
     1012002,//Mekk-Knight Spectrum Supreme
     1012003,//Knightmare Gryphon
@@ -594,8 +605,17 @@
     1020197,//Jack of All Trades
     1020198,//Spright Starter
     1020199,//Forge Ahead
+    1020204,//DC 2026 MAR Top 10
+    1020205,//DC 2026 MAR Top 100
+    1020206,//DC 2026 MAR Top 500
+    1020207,//DC 2026 MAR Top 1000
+    1020208,//DC 2026 MAR Top 10000
+    1020209,//DC 2026 MAR 2nd Stage Duelist
     1021001,//Starting Out
     1021002,//Top Performer
+    1022001,//High School Tournament 2026 Champion
+    1022002,//High School Tournament 2026 Grand Finalist
+    1022003,//High School Tournament 2026 Finalist
   ],
   "ICON_FRAME": [
     1030001,//Beginner's Frame
@@ -638,6 +658,7 @@
     1030038,//Diabellstar the Black Witch
     1030039,//Gem-Knight Fusion
     1030040,//Blue & White Frame
+    1030041,//Red & White Frame
     1031001,//The Path of the Blue Sky Striker
     1031002,//The Path of the Red Sky Striker
     1031003,//Magic Cylinder
@@ -658,6 +679,8 @@
     1031018,//Orcust
     1031019,//K9-17 Izuna
     1031020,//P.U.N.K. JAM FEVER!
+    1031021,//Mystical Space Typhoon
+    1031022,//Mask Change II
     1032001,//Festive Ornament
     1032002,//Celebration of Spring Breeze
     1032003,//Tropical Seaside
@@ -827,9 +850,13 @@
     1070151,//K9-ØØ Lupis
     1070152,//Secrets of Dark Magic
     1070153,//Spright Elf
+    1070154,//Mystical Space Typhoon
+    1070155,//Fusion Destiny
     1070157,//Live☆Twin Lil-la Sweet
     1070158,//Junk Warrior Extreme
     1070159,//Emperor Tanuki's Critter Count
+    1070160,//Assault Mode Activate
+    1070161,//Masked HERO Atomic
     1071001,//Crusadia Maximus
     1071002,//Longirsu, the Orcust Orchestrator
     1071003,//Dream Mirror Phantasms
@@ -894,6 +921,7 @@
     1073016,//WCS 2025 Party Favor
     1073017,//DC 2025 SEP Celebration
     1073018,//DC 2025 DEC Celebration
+    1073019,//DC 2026 MAR Celebration
     1075001,//Yu-Gi-Oh! CARD GAME THE CHRONICLES
     1075002,//THE CHRONICLES: Sky Striker Ace
     1075003,//White & Blue
@@ -961,6 +989,7 @@
     1082024,//Diabellstar the Black Witch
     1082025,//Labrynth
     1082026,//"A Case for K9"
+    1082027,//Clock Tower Prison
     1083001,//White & Blue
   ],
   "FIELD": [
@@ -1171,6 +1200,7 @@
     1111068,//Yummy
     1111071,//Dracotail
     1111072,//Live☆Twin Lil-la Sweet
+    1111077,//Dominus Spiral
     1111080,//Borrel
     1112001,//Colosseum
     1112002,//WCS
@@ -1325,6 +1355,12 @@
     1130111,//I:P Masquerena
     1130112,//S:P Little Knight
     1130113,//Spright Gamma Burst
+    1130114,//Nightwinged Cleric
+    1130115,//Radiant Typhoon Fonix, the Great Flame
+    1130116,//Destiny HERO - Destroyer Phoenix Enforcer
+    1130118,//Jupiter the Power Patron of Destruction
+    1130119,//Dominus Spiral
+    1130120,//Masked HERO Dark Law
     1130124,//I:P Masquerena & S:P Little Knight
     1132001,//Rescue Rabbit
     1132002,//Neymar
@@ -1354,6 +1390,7 @@
     1170006,//Mikanko
     1170008,//Sky Striker Ace
     1170009,//Dark Magician
+    1170010,//Destiny HERO
   ],
   "COIN": [
     1180001,//Blue-Eyes Alternative White Dragon
@@ -1371,6 +1408,7 @@
     1180015,//K9
     1180016,//EM:P Meowmine
     1180017,//Dark Magician
+    1180018,//Destiny HERO
   ],
   "BOOKMARK_LIMIT": [
     1190001,//Bookmark Slots
