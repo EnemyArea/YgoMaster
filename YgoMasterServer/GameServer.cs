@@ -349,6 +349,9 @@ namespace YgoMaster
                                     case "Solo.info":
                                         Act_SoloInfo(gameServerWebRequest);
                                         break;
+                                    case "Solo.gate_entry":
+                                        Act_GateEntry(gameServerWebRequest);
+                                        break;
                                     case "Solo.detail":
                                         Act_SoloDetail(gameServerWebRequest);
                                         break;
@@ -685,7 +688,7 @@ namespace YgoMaster
                 {
                     return 0;
                 }
-                token = token.Substring(0, MultiplayerTokenPrefixSecret.Length);
+                token = token.Substring(MultiplayerTokenPrefixSecret.Length); // Take the token after the MultiplayerTokenPrefixSecret
                 if (string.IsNullOrEmpty(token))
                 {
                     return 0;

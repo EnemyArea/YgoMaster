@@ -96,7 +96,7 @@ namespace IL2CPP
             catch
             {
             }
-            File.WriteAllText(GetDumpPath(), MiniJSON.Json.Serialize(json));
+            File.WriteAllText(GetDumpPath(), MiniJSON.Json.Serialize(json) + "\n");
             Console.WriteLine("Dumped to '" + GetDumpPath() + "'");
         }
 
@@ -240,7 +240,7 @@ namespace IL2CPP
             {
                 sig.Append("static ");
             }
-            sig.Append(field.Name);
+            sig.Append(field.ReflectedType.Name);
             return sig.ToString();
         }
 

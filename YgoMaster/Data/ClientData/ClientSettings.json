@@ -1,5 +1,5 @@
 {
-    "SupportedGameVersion": "2.4.1",
+    "SupportedGameVersion": "2.6.2",
     "BaseIP": "localhost",
     "BasePort": 4989,
     "SessionServerPort": 4988,
@@ -31,7 +31,8 @@
     "DuelClientDisableCutinAnimationsForCardsWithCustomImages": true,
     "DuelClientSpectatorRapidTimeMultiplayer": 10,// Time multiplier applied when spectating duels "From now" as opposed to "From the Beginning" (used until the first time LIVE is displayed)
     "DuelClientTimeMultiplier": 0,// Time multiplier applied during duels (a value of 0 means no change)
-    "ReplayControlsXOffset": 0,// If you're forcing the replay controls to always be visible you will want to offset the UI element as otherwise it will overlap with other UI elements (a value of 100 works well as of v2.2.1)
+    "ReplayControlsXOffset": 300,// UI offset which is used when replay controls are forced to always be visible (this is used otherwise it will overlap with other UI elements)
+    "ReplayControlsYOffset": 105,
     "ReplayControlsAlwaysEnabled": false,
     "ReplayControlsTimeMultiplier": 0,// Time multiplier applied when pressing fast forward on the replay controls (a value of 0 means no change)
     "TimeMultiplier": 0,// Time multiplier applied at all times (a value of 0 means no change)
@@ -53,11 +54,12 @@
     "EmoteDurationInSeconds": 4.0,
     "LaunchMode": "Detours",
     "BrokenItems": [],
-    "UnityPlayerRVA_AudioClip_CUSTOM_Construct_Internal": 1312080,
-    "UnityPlayerRVA_AudioClip_CUSTOM_CreateUserSound": 1312336,
-    "UnityPlayerRVA_AudioClip_CUSTOM_SetData": 1311904,
-    "UnityPlayerRVA_DownloadHandlerTexture_CUSTOM_Create": 2345648,
-    "UnityPlayerRVA_DownloadHandlerTexture_CUSTOM_InternalGetTextureNative": 2345984,
+    "UnityPlayerVersion": "6000.0.61f1",
+    "UnityPlayerRVA_AudioClip_CUSTOM_Construct_Internal": 1312976,
+    "UnityPlayerRVA_AudioClip_CUSTOM_CreateUserSound": 1313232,
+    "UnityPlayerRVA_AudioClip_CUSTOM_SetData": 1312800,
+    "UnityPlayerRVA_DownloadHandlerTexture_CUSTOM_Create": 2346896,
+    "UnityPlayerRVA_DownloadHandlerTexture_CUSTOM_InternalGetTextureNative": 2347232,
     "DisableAsyncImageLoad": false,
     "WallpaperDisabled": false,
     "WallpaperCycleEnabled": false,

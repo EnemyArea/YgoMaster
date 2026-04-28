@@ -25,6 +25,7 @@
     "MultiplayerPvpClientSysActCallsPerSleep": 5,
     "MultiplayerPvpClientDoCommandUserOffset": 15504,
     "MultiplayerPvpClientRunDialogUserOffset": 15400,
+    "MultiplayerPvpClientDuelDllSize": 17752064,
     "DisableDeckValidation": false,
     "DontUpdateDeckEditTime": false,
     "DeckListAlphabetical": false,
@@ -41,6 +42,7 @@
     "SoloShowGateClearForAllSecretPacks": false,
     "SoloRewardsInDuelResult": false,
     "SoloRewardsInDuelResultAreRare": false,
+    "SoloRegulationName": null,// e.g. "IDS_REGULATION_FUSION" (null = default / "IDS_CARDMENU_REGULATION_NORMAL")
     "CardCraftableAll": false,
     "DisableNoDismantle": false,
     "DisableBanList": false,

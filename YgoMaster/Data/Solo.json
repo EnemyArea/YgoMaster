@@ -636,6 +636,33 @@
                 "clear_chapter": 760007,
                 "category": 1,
                 "open_date": 1759118400
+              },
+              "77": {
+                "priority": 63,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 770006,
+                "category": 1,
+                "open_date": 1766377800
+              },
+              "78": {
+                "priority": 64,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 780009,
+                "category": 1,
+                "open_date": 1770265800
+              },
+              "80": {
+                "priority": 51,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 800002,
+                "category": 2,
+                "open_date": 1770265800
               }
             },
             "chapter": {
@@ -648,6 +675,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1000,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "10002": {
@@ -658,6 +686,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1001,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "10003": {
@@ -668,6 +697,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1074,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -680,6 +710,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00020004",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20006": {
@@ -690,6 +721,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00020006",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20007": {
@@ -700,6 +732,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1002,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20008": {
@@ -710,6 +743,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00020008",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20026": {
@@ -720,6 +754,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00020026",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20119": {
@@ -730,6 +765,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1003,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20120": {
@@ -740,6 +776,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00020120",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20121": {
@@ -750,6 +787,7 @@
                   "unlock_id": 12002,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20122": {
@@ -760,6 +798,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1004,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20151": {
@@ -770,6 +809,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1002,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20152": {
@@ -780,6 +820,7 @@
                   "unlock_id": 12001,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20153": {
@@ -790,6 +831,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1072,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20154": {
@@ -800,6 +842,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1073,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "20155": {
@@ -810,6 +853,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1003,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -822,6 +866,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00030009",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30010": {
@@ -832,6 +877,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1005,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30011": {
@@ -842,6 +888,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00030011",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30012": {
@@ -852,6 +899,7 @@
                   "unlock_id": 12003,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30013": {
@@ -862,6 +910,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1006,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30014": {
@@ -872,6 +921,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1007,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30123": {
@@ -882,6 +932,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00030123",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30124": {
@@ -892,6 +943,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00030124",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30125": {
@@ -902,6 +954,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1008,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30126": {
@@ -912,6 +965,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00030126",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30127": {
@@ -922,6 +976,7 @@
                   "unlock_id": 12004,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30128": {
@@ -932,6 +987,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1009,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30129": {
@@ -942,6 +998,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1010,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "30156": {
@@ -952,6 +1009,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1006,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -964,6 +1022,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00040015",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "40017": {
@@ -974,6 +1033,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1035,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "40018": {
@@ -984,6 +1044,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00040018",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "40027": {
@@ -994,6 +1055,7 @@
                   "unlock_id": 10904,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "40028": {
@@ -1004,6 +1066,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1036,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "40029": {
@@ -1014,6 +1077,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1037,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "40158": {
@@ -1024,6 +1088,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1035,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1036,6 +1101,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00050019",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "50020": {
@@ -1046,6 +1112,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1041,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "50021": {
@@ -1056,6 +1123,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00050021",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "50022": {
@@ -1066,6 +1134,7 @@
                   "unlock_id": 10804,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "50030": {
@@ -1076,6 +1145,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1042,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "50031": {
@@ -1086,6 +1156,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1043,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "50159": {
@@ -1096,6 +1167,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1041,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1108,6 +1180,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00060023",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "60024": {
@@ -1118,6 +1191,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1026,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "60025": {
@@ -1128,6 +1202,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00060025",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "60032": {
@@ -1138,6 +1213,7 @@
                   "unlock_id": 10904,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "60033": {
@@ -1148,6 +1224,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1027,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "60034": {
@@ -1158,6 +1235,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1028,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "60160": {
@@ -1168,6 +1246,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1026,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1180,6 +1259,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00070035",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "70036": {
@@ -1190,6 +1270,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1032,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "70037": {
@@ -1200,6 +1281,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00070037",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "70038": {
@@ -1210,6 +1292,7 @@
                   "unlock_id": 10804,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "70039": {
@@ -1220,6 +1303,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1033,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "70040": {
@@ -1230,6 +1314,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1034,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "70161": {
@@ -1240,6 +1325,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1032,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1252,6 +1338,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00080041",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "80042": {
@@ -1262,6 +1349,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1044,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "80043": {
@@ -1272,6 +1360,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00080043",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "80044": {
@@ -1282,6 +1371,7 @@
                   "unlock_id": 11004,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "80045": {
@@ -1292,6 +1382,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1045,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "80046": {
@@ -1302,6 +1393,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1046,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "80162": {
@@ -1312,6 +1404,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1044,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1324,6 +1417,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00090047",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "90048": {
@@ -1334,6 +1428,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1029,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "90049": {
@@ -1344,6 +1439,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00090049",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "90050": {
@@ -1354,6 +1450,7 @@
                   "unlock_id": 11004,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "90051": {
@@ -1364,6 +1461,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1030,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "90052": {
@@ -1374,6 +1472,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1031,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "90163": {
@@ -1384,6 +1483,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1029,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1396,6 +1496,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00100053",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "100054": {
@@ -1406,6 +1507,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1017,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "100055": {
@@ -1416,6 +1518,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00100055",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "100056": {
@@ -1426,6 +1529,7 @@
                   "unlock_id": 11304,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "100057": {
@@ -1436,6 +1540,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1018,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "100058": {
@@ -1446,6 +1551,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1019,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "100164": {
@@ -1456,6 +1562,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1017,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1468,6 +1575,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00110059",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "110060": {
@@ -1478,6 +1586,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1023,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "110061": {
@@ -1488,6 +1597,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00110061",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "110062": {
@@ -1498,6 +1608,7 @@
                   "unlock_id": 11004,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "110063": {
@@ -1508,6 +1619,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1024,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "110064": {
@@ -1518,6 +1630,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1025,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "110165": {
@@ -1528,6 +1641,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1023,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1540,6 +1654,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00120065",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "120066": {
@@ -1550,6 +1665,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1011,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "120067": {
@@ -1560,6 +1676,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00120067",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "120068": {
@@ -1570,6 +1687,7 @@
                   "unlock_id": 11204,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "120069": {
@@ -1580,6 +1698,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1012,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "120070": {
@@ -1590,6 +1709,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1013,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "120166": {
@@ -1600,6 +1720,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1011,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1612,6 +1733,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00130071",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "130072": {
@@ -1622,6 +1744,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1020,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "130073": {
@@ -1632,6 +1755,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00130073",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "130074": {
@@ -1642,6 +1766,7 @@
                   "unlock_id": 11004,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "130075": {
@@ -1652,6 +1777,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1021,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "130076": {
@@ -1662,6 +1788,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1022,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "130167": {
@@ -1672,6 +1799,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1020,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1684,6 +1812,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00140077",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "140078": {
@@ -1694,6 +1823,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1038,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "140079": {
@@ -1704,6 +1834,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00140079",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "140080": {
@@ -1714,6 +1845,7 @@
                   "unlock_id": 11104,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "140081": {
@@ -1724,6 +1856,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1039,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "140082": {
@@ -1734,6 +1867,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1040,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "140168": {
@@ -1744,6 +1878,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1038,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1756,6 +1891,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00150083",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "150084": {
@@ -1766,6 +1902,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1047,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "150085": {
@@ -1776,6 +1913,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00150085",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "150086": {
@@ -1786,6 +1924,7 @@
                   "unlock_id": 10804,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "150087": {
@@ -1796,6 +1935,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1048,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "150088": {
@@ -1806,6 +1946,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1049,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "150169": {
@@ -1816,6 +1957,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1047,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1828,6 +1970,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00160089",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "160090": {
@@ -1838,6 +1981,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1014,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "160091": {
@@ -1848,6 +1992,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00160091",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "160092": {
@@ -1858,6 +2003,7 @@
                   "unlock_id": 12008,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "160093": {
@@ -1868,6 +2014,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1015,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "160094": {
@@ -1878,6 +2025,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1016,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "160170": {
@@ -1888,6 +2036,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1014,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -1900,6 +2049,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00170095",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170096": {
@@ -1910,6 +2060,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1056,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170097": {
@@ -1920,6 +2071,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00170097",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170098": {
@@ -1930,6 +2082,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1059,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170099": {
@@ -1940,6 +2093,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00170099",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170100": {
@@ -1950,6 +2104,7 @@
                   "unlock_id": 12006,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170130": {
@@ -1960,6 +2115,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1057,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170131": {
@@ -1970,6 +2126,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1058,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170132": {
@@ -1980,6 +2137,7 @@
                   "unlock_id": 12006,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170133": {
@@ -1990,6 +2148,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1060,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170134": {
@@ -2000,6 +2159,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1061,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170171": {
@@ -2010,6 +2170,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1056,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "170172": {
@@ -2020,6 +2181,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1059,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2032,6 +2194,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00190107",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "190108": {
@@ -2042,6 +2205,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1053,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "190109": {
@@ -2052,6 +2216,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00190109",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "190110": {
@@ -2062,6 +2227,7 @@
                   "unlock_id": 10904,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "190111": {
@@ -2072,6 +2238,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1054,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "190112": {
@@ -2082,6 +2249,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1055,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "190174": {
@@ -2092,6 +2260,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1053,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2104,6 +2273,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1062,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200114": {
@@ -2114,6 +2284,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1063,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200115": {
@@ -2124,6 +2295,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1064,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200116": {
@@ -2134,6 +2306,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1065,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200117": {
@@ -2144,6 +2317,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1066,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200118": {
@@ -2154,6 +2328,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1067,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200135": {
@@ -2164,6 +2339,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1068,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200136": {
@@ -2174,6 +2350,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1069,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200137": {
@@ -2184,6 +2361,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1070,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200138": {
@@ -2194,6 +2372,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1071,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "200139": {
@@ -2204,6 +2383,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2216,6 +2396,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3001,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220141": {
@@ -2226,6 +2407,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3002,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220142": {
@@ -2236,6 +2418,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3003,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220143": {
@@ -2246,6 +2429,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3004,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220144": {
@@ -2256,6 +2440,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3005,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220145": {
@@ -2266,6 +2451,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3006,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220146": {
@@ -2276,6 +2462,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3007,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220147": {
@@ -2286,6 +2473,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3008,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220148": {
@@ -2296,6 +2484,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3009,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220149": {
@@ -2306,6 +2495,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3010,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "220150": {
@@ -2316,6 +2506,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2328,6 +2519,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230175",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230176": {
@@ -2338,6 +2530,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230176",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230177": {
@@ -2348,6 +2541,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230177",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230178": {
@@ -2358,6 +2552,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230178",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230179": {
@@ -2368,6 +2563,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230179",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230180": {
@@ -2378,6 +2574,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230180",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230181": {
@@ -2388,6 +2585,7 @@
                   "unlock_id": 20001,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230182": {
@@ -2398,6 +2596,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1084,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230183": {
@@ -2408,6 +2607,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1084,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230184": {
@@ -2418,6 +2618,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230184",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230185": {
@@ -2428,6 +2629,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230185",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230186": {
@@ -2438,6 +2640,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00230186",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230187": {
@@ -2448,6 +2651,7 @@
                   "unlock_id": 10806,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230188": {
@@ -2458,6 +2662,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1084,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230189": {
@@ -2468,6 +2673,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1085,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230190": {
@@ -2478,6 +2684,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1086,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230191": {
@@ -2488,6 +2695,7 @@
                   "unlock_id": 12012,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230252": {
@@ -2498,6 +2706,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1082,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "230253": {
@@ -2508,6 +2717,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1083,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2520,6 +2730,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00240192",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "240193": {
@@ -2530,6 +2741,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1093,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "240194": {
@@ -2540,6 +2752,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1093,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "240195": {
@@ -2550,6 +2763,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00240195",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "240196": {
@@ -2560,6 +2774,7 @@
                   "unlock_id": 12010,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "240197": {
@@ -2570,6 +2785,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1094,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "240198": {
@@ -2580,6 +2796,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1095,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2592,6 +2809,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00250199",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "250200": {
@@ -2602,6 +2820,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1087,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "250201": {
@@ -2612,6 +2831,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1087,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "250202": {
@@ -2622,6 +2842,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00250202",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "250203": {
@@ -2632,6 +2853,7 @@
                   "unlock_id": 11002,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "250204": {
@@ -2642,6 +2864,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1088,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "250205": {
@@ -2652,6 +2875,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1089,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2664,6 +2888,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00260206",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260207": {
@@ -2674,6 +2899,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00260207",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260208": {
@@ -2684,6 +2910,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00260208",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260209": {
@@ -2694,6 +2921,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1078,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260210": {
@@ -2704,6 +2932,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1078,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260211": {
@@ -2714,6 +2943,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00260211",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260212": {
@@ -2724,6 +2954,7 @@
                   "unlock_id": 12011,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260213": {
@@ -2734,6 +2965,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1079,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "260214": {
@@ -2744,6 +2976,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1080,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2756,6 +2989,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00270215",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270216": {
@@ -2766,6 +3000,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00270216",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270217": {
@@ -2776,6 +3011,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1090,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270218": {
@@ -2786,6 +3022,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1090,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270219": {
@@ -2796,6 +3033,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00270219",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270220": {
@@ -2806,6 +3044,7 @@
                   "unlock_id": 10806,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270221": {
@@ -2816,6 +3055,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1091,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "270222": {
@@ -2826,6 +3066,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1092,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2838,6 +3079,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00280223",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "280224": {
@@ -2848,6 +3090,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1075,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "280225": {
@@ -2858,6 +3101,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1075,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "280226": {
@@ -2868,6 +3112,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00280226",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "280227": {
@@ -2878,6 +3123,7 @@
                   "unlock_id": 12007,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "280228": {
@@ -2888,6 +3134,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1076,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "280229": {
@@ -2898,6 +3145,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1077,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -2910,6 +3158,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1096,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290231": {
@@ -2920,6 +3169,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1097,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290232": {
@@ -2930,6 +3180,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1098,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290233": {
@@ -2940,6 +3191,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1099,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290234": {
@@ -2950,6 +3202,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1100,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290235": {
@@ -2960,6 +3213,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1101,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290236": {
@@ -2970,6 +3224,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1102,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290237": {
@@ -2980,6 +3235,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1103,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290238": {
@@ -2990,6 +3246,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1104,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290239": {
@@ -3000,6 +3257,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1105,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "290240": {
@@ -3010,6 +3268,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3022,6 +3281,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3011,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300242": {
@@ -3032,6 +3292,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3013,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300243": {
@@ -3042,6 +3303,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3014,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300244": {
@@ -3052,6 +3314,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3016,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300245": {
@@ -3062,6 +3325,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3017,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300246": {
@@ -3072,6 +3336,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3012,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300247": {
@@ -3082,6 +3347,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300248": {
@@ -3092,6 +3358,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3015,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300249": {
@@ -3102,6 +3369,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3018,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300250": {
@@ -3112,6 +3380,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3019,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300251": {
@@ -3122,6 +3391,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3020,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "300254": {
@@ -3132,6 +3402,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3021,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3144,6 +3415,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00320255",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320256": {
@@ -3154,6 +3426,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00320256",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320257": {
@@ -3164,6 +3437,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1109,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320258": {
@@ -3174,6 +3448,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1109,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320259": {
@@ -3184,6 +3459,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00320259",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320260": {
@@ -3194,6 +3470,7 @@
                   "unlock_id": 12014,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320261": {
@@ -3204,6 +3481,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1110,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "320262": {
@@ -3214,6 +3492,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1111,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3226,6 +3505,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00330263",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330264": {
@@ -3236,6 +3516,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00330264",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330265": {
@@ -3246,6 +3527,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00330265",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330266": {
@@ -3256,6 +3538,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1115,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330267": {
@@ -3266,6 +3549,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1115,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330268": {
@@ -3276,6 +3560,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00330268",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330269": {
@@ -3286,6 +3571,7 @@
                   "unlock_id": 12020,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330270": {
@@ -3296,6 +3582,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1116,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "330271": {
@@ -3306,6 +3593,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1117,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3318,6 +3606,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00340272",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340273": {
@@ -3328,6 +3617,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00340273",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340274": {
@@ -3338,6 +3628,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1112,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340275": {
@@ -3348,6 +3639,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1112,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340276": {
@@ -3358,6 +3650,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00340276",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340277": {
@@ -3368,6 +3661,7 @@
                   "unlock_id": 10806,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340278": {
@@ -3378,6 +3672,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1113,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "340279": {
@@ -3388,6 +3683,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1114,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3400,6 +3696,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00350280",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "350281": {
@@ -3410,6 +3707,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1118,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "350282": {
@@ -3420,6 +3718,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1118,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "350283": {
@@ -3430,6 +3729,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00350283",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "350284": {
@@ -3440,6 +3740,7 @@
                   "unlock_id": 11110,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "350285": {
@@ -3450,6 +3751,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1119,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "350286": {
@@ -3460,6 +3762,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1120,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3472,6 +3775,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00360287",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "360288": {
@@ -3482,6 +3786,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1106,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "360289": {
@@ -3492,6 +3797,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1106,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "360290": {
@@ -3502,6 +3808,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00360290",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "360291": {
@@ -3512,6 +3819,7 @@
                   "unlock_id": 12013,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "360292": {
@@ -3522,6 +3830,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1107,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "360293": {
@@ -3532,6 +3841,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1108,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3544,6 +3854,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00370294",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370295": {
@@ -3554,6 +3865,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00370295",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370296": {
@@ -3564,6 +3876,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1121,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370297": {
@@ -3574,6 +3887,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1121,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370298": {
@@ -3584,6 +3898,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00370296",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370299": {
@@ -3594,6 +3909,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00370299",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370300": {
@@ -3604,6 +3920,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1122,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370301": {
@@ -3614,6 +3931,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00370301",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370302": {
@@ -3624,6 +3942,7 @@
                   "unlock_id": 10812,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "370303": {
@@ -3634,6 +3953,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1123,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3646,6 +3966,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00380304",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "380305": {
@@ -3656,6 +3977,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1139,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "380306": {
@@ -3666,6 +3988,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1139,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "380307": {
@@ -3676,6 +3999,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00380307",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "380308": {
@@ -3686,6 +4010,7 @@
                   "unlock_id": 11205,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "380309": {
@@ -3696,6 +4021,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1140,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "380310": {
@@ -3706,6 +4032,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1141,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3718,6 +4045,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00390311",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390312": {
@@ -3728,6 +4056,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00390312",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390313": {
@@ -3738,6 +4067,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1136,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390314": {
@@ -3748,6 +4078,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1136,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390315": {
@@ -3758,6 +4089,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00390315",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390316": {
@@ -3768,6 +4100,7 @@
                   "unlock_id": 12011,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390317": {
@@ -3778,6 +4111,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1137,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "390318": {
@@ -3788,6 +4122,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1138,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3800,6 +4135,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00400319",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "400320": {
@@ -3810,6 +4146,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1130,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "400321": {
@@ -3820,6 +4157,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1130,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "400322": {
@@ -3830,6 +4168,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00400322",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "400323": {
@@ -3840,6 +4179,7 @@
                   "unlock_id": 10810,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "400324": {
@@ -3850,6 +4190,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1131,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "400325": {
@@ -3860,6 +4201,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1132,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3872,6 +4214,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00410326",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "410327": {
@@ -3882,6 +4225,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1133,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "410328": {
@@ -3892,6 +4236,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1133,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "410329": {
@@ -3902,6 +4247,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00410329",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "410330": {
@@ -3912,6 +4258,7 @@
                   "unlock_id": 10910,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "410331": {
@@ -3922,6 +4269,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1134,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "410332": {
@@ -3932,6 +4280,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1135,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -3944,6 +4293,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00420333",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "420334": {
@@ -3954,6 +4304,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1127,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "420335": {
@@ -3964,6 +4315,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1127,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "420336": {
@@ -3974,6 +4326,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00420336",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "420337": {
@@ -3984,6 +4337,7 @@
                   "unlock_id": 20004,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "420338": {
@@ -3994,6 +4348,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1128,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "420339": {
@@ -4004,6 +4359,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1129,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4016,6 +4372,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00430340",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430341": {
@@ -4026,6 +4383,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00430341",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430342": {
@@ -4036,6 +4394,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1124,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430343": {
@@ -4046,6 +4405,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1124,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430344": {
@@ -4056,6 +4416,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00430344",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430345": {
@@ -4066,6 +4427,7 @@
                   "unlock_id": 12016,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430346": {
@@ -4076,6 +4438,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1125,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "430347": {
@@ -4086,6 +4449,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1126,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4098,6 +4462,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440348",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440349": {
@@ -4108,6 +4473,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440349",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440350": {
@@ -4118,6 +4484,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440350",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440351": {
@@ -4128,6 +4495,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440351",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440352": {
@@ -4138,6 +4506,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440352",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440353": {
@@ -4148,6 +4517,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440353",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440354": {
@@ -4158,6 +4528,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440354",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440355": {
@@ -4168,6 +4539,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00440355",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440356": {
@@ -4178,6 +4550,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1151,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440357": {
@@ -4188,6 +4561,7 @@
                   "unlock_id": 20002,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440358": {
@@ -4198,6 +4572,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1148,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440359": {
@@ -4208,6 +4583,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1149,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440360": {
@@ -4218,6 +4594,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1150,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440361": {
@@ -4228,6 +4605,7 @@
                   "unlock_id": 20003,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440362": {
@@ -4238,6 +4616,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1152,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "440363": {
@@ -4248,6 +4627,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1153,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4260,6 +4640,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00450364",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "450365": {
@@ -4270,6 +4651,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1142,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "450366": {
@@ -4280,6 +4662,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1142,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "450367": {
@@ -4290,6 +4673,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00450367",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "450368": {
@@ -4300,6 +4684,7 @@
                   "unlock_id": 11110,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "450369": {
@@ -4310,6 +4695,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1143,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "450370": {
@@ -4320,6 +4706,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1144,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4332,6 +4719,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00460371",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "460372": {
@@ -4342,6 +4730,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1154,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "460373": {
@@ -4352,6 +4741,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1154,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "460374": {
@@ -4362,6 +4752,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00460374",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "460375": {
@@ -4372,6 +4763,7 @@
                   "unlock_id": 12006,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "460376": {
@@ -4382,6 +4774,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1155,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "460377": {
@@ -4392,6 +4785,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1156,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4404,6 +4798,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00470378",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470379": {
@@ -4414,6 +4809,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1145,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470380": {
@@ -4424,6 +4820,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1145,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470381": {
@@ -4434,6 +4831,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00470381",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470382": {
@@ -4444,6 +4842,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00470382",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470383": {
@@ -4454,6 +4853,7 @@
                   "unlock_id": 11010,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470384": {
@@ -4464,6 +4864,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1146,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "470385": {
@@ -4474,6 +4875,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1147,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4486,6 +4888,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3022,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "480387": {
@@ -4496,6 +4899,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3023,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "480388": {
@@ -4506,6 +4910,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3024,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "480389": {
@@ -4516,6 +4921,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3025,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "480390": {
@@ -4526,6 +4932,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3026,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "480391": {
@@ -4536,6 +4943,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4548,6 +4956,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00490393",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490393": {
@@ -4558,6 +4967,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00490394",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490394": {
@@ -4568,6 +4978,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1157,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490395": {
@@ -4578,6 +4989,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1157,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490396": {
@@ -4588,6 +5000,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00490396",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490397": {
@@ -4598,6 +5011,7 @@
                   "unlock_id": 12021,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490398": {
@@ -4608,6 +5022,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1158,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "490399": {
@@ -4618,6 +5033,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1159,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4630,6 +5046,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00500400",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "500401": {
@@ -4640,6 +5057,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1160,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "500402": {
@@ -4650,6 +5068,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1160,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "500403": {
@@ -4660,6 +5079,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00500403",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "500404": {
@@ -4670,6 +5090,7 @@
                   "unlock_id": 11006,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "500405": {
@@ -4680,6 +5101,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1161,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "500406": {
@@ -4690,6 +5112,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1162,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4702,6 +5125,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00520407",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "520408": {
@@ -4712,6 +5136,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1163,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "520409": {
@@ -4722,6 +5147,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1163,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "520410": {
@@ -4732,6 +5158,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00520410",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "520411": {
@@ -4742,6 +5169,7 @@
                   "unlock_id": 20005,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "520412": {
@@ -4752,6 +5180,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1164,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "520413": {
@@ -4762,6 +5191,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1165,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4774,6 +5204,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00530414",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "530415": {
@@ -4784,6 +5215,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1166,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "530416": {
@@ -4794,6 +5226,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1166,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "530417": {
@@ -4804,6 +5237,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00530417",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "530418": {
@@ -4814,6 +5248,7 @@
                   "unlock_id": 20006,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "530419": {
@@ -4824,6 +5259,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1167,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "530420": {
@@ -4834,6 +5270,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1168,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4846,6 +5283,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00540421",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "540422": {
@@ -4856,6 +5294,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1169,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "540423": {
@@ -4866,6 +5305,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1169,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "540424": {
@@ -4876,6 +5316,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00540424",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "540425": {
@@ -4886,6 +5327,7 @@
                   "unlock_id": 10908,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "540426": {
@@ -4896,6 +5338,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1170,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "540427": {
@@ -4906,6 +5349,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1171,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4918,6 +5362,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00550428",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "550429": {
@@ -4928,6 +5373,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1172,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "550430": {
@@ -4938,6 +5384,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1172,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "550431": {
@@ -4948,6 +5395,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00550431",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "550432": {
@@ -4958,6 +5406,7 @@
                   "unlock_id": 12022,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "550433": {
@@ -4968,6 +5417,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1173,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "550434": {
@@ -4978,6 +5428,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1174,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -4990,6 +5441,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00560435",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "560436": {
@@ -5000,6 +5452,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1178,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "560437": {
@@ -5010,6 +5463,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00560437",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "560438": {
@@ -5020,6 +5474,7 @@
                   "unlock_id": 12006,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "560439": {
@@ -5030,6 +5485,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1179,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "560440": {
@@ -5040,6 +5496,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1180,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5052,6 +5509,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00570441",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570442": {
@@ -5062,6 +5520,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1181,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570443": {
@@ -5072,6 +5531,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1181,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570444": {
@@ -5082,6 +5542,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00570444",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570445": {
@@ -5092,6 +5553,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00570445",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570446": {
@@ -5102,6 +5564,7 @@
                   "unlock_id": 12023,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570447": {
@@ -5112,6 +5575,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1182,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "570448": {
@@ -5122,6 +5586,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1183,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5134,6 +5599,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00590001",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "590002": {
@@ -5144,6 +5610,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1187,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "590003": {
@@ -5154,6 +5621,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1187,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "590004": {
@@ -5164,6 +5632,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00590004",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "590005": {
@@ -5174,6 +5643,7 @@
                   "unlock_id": 11207,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "590006": {
@@ -5184,6 +5654,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1188,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "590007": {
@@ -5194,6 +5665,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1189,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5206,6 +5678,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3027,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "670501": {
@@ -5216,6 +5689,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3028,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5228,6 +5702,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3027,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "680503": {
@@ -5238,6 +5713,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3028,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5250,6 +5726,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3027,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "690505": {
@@ -5260,6 +5737,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3028,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5272,6 +5750,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00700506",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "700507": {
@@ -5282,6 +5761,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1175,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "700508": {
@@ -5292,6 +5772,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1175,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "700509": {
@@ -5302,6 +5783,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00700509",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "700510": {
@@ -5312,6 +5794,7 @@
                   "unlock_id": 10802,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "700511": {
@@ -5322,6 +5805,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1176,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "700512": {
@@ -5332,6 +5816,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1177,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5344,6 +5829,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00710001",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 1
                 },
                 "710002": {
@@ -5354,6 +5840,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00710002",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710003": {
@@ -5364,6 +5851,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1184,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710004": {
@@ -5374,6 +5862,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1184,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710005": {
@@ -5384,6 +5873,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00710005",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 1
                 },
                 "710006": {
@@ -5394,6 +5884,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00710006",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710007": {
@@ -5404,6 +5895,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1185,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710008": {
@@ -5414,6 +5906,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00710009",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710009": {
@@ -5424,6 +5917,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1186,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "710010": {
@@ -5434,6 +5928,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00710010",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 1
                 }
               },
@@ -5446,6 +5941,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3029,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "730002": {
@@ -5456,6 +5952,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3029,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5468,6 +5965,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3029,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "740002": {
@@ -5478,6 +5976,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 3029,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               },
@@ -5490,6 +5989,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00760001",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760002": {
@@ -5500,6 +6000,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1190,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760003": {
@@ -5510,6 +6011,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1190,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760004": {
@@ -5520,6 +6022,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00760004",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760005": {
@@ -5530,6 +6033,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1191,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760006": {
@@ -5540,6 +6044,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1191,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760007": {
@@ -5550,6 +6055,7 @@
                   "unlock_id": 0,
                   "begin_sn": "Sr00760007",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760008": {
@@ -5560,6 +6066,7 @@
                   "unlock_id": 12024,
                   "begin_sn": "",
                   "npc_id": 0,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760009": {
@@ -5570,6 +6077,7 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1192,
+                  "vas_string_id": 0,
                   "anime": 0
                 },
                 "760010": {
@@ -5580,6 +6088,244 @@
                   "unlock_id": 0,
                   "begin_sn": "",
                   "npc_id": 1193,
+                  "vas_string_id": 0,
+                  "anime": 0
+                }
+              },
+              "77": {
+                "770001": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140101,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00770001",
+                  "npc_id": 0,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "770002": {
+                  "parent_chapter": 770001,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140101,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00770003",
+                  "npc_id": 0,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "770003": {
+                  "parent_chapter": 770002,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1012076,
+                  "set_id": 1101030,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1194,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "770004": {
+                  "parent_chapter": 770003,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140101,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00770005",
+                  "npc_id": 0,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "770005": {
+                  "parent_chapter": 770004,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1071037,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1195,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "770006": {
+                  "parent_chapter": 770005,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140107,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00770007",
+                  "npc_id": 0,
+                  "vas_string_id": 0,
+                  "anime": 0
+                }
+              },
+              "78": {
+                "780001": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00780001",
+                  "npc_id": 0,
+                  "vas_string_id": 1,
+                  "anime": 1
+                },
+                "780002": {
+                  "parent_chapter": 780001,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00780002",
+                  "npc_id": 0,
+                  "vas_string_id": 2,
+                  "anime": 0
+                },
+                "780003": {
+                  "parent_chapter": 780002,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1012077,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1196,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "780004": {
+                  "parent_chapter": 780003,
+                  "difficulty": 3,
+                  "mydeck_set_id": 1012078,
+                  "set_id": 1012080,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1197,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "780005": {
+                  "parent_chapter": 780004,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00780005",
+                  "npc_id": 0,
+                  "vas_string_id": 3,
+                  "anime": 1
+                },
+                "780006": {
+                  "parent_chapter": 780005,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00780006",
+                  "npc_id": 0,
+                  "vas_string_id": 4,
+                  "anime": 0
+                },
+                "780007": {
+                  "parent_chapter": 780006,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00780007",
+                  "npc_id": 0,
+                  "vas_string_id": 5,
+                  "anime": 0
+                },
+                "780008": {
+                  "parent_chapter": 780007,
+                  "difficulty": 3,
+                  "mydeck_set_id": 1071038,
+                  "set_id": 1130124,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1198,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "780009": {
+                  "parent_chapter": 780008,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 104,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00780009",
+                  "npc_id": 0,
+                  "vas_string_id": 6,
+                  "anime": 1
+                }
+              },
+              "80": {
+                "800001": {
+                  "parent_chapter": 0,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1199,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "800002": {
+                  "parent_chapter": 800001,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1012079,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1199,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "800003": {
+                  "parent_chapter": 800001,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 20007,
+                  "begin_sn": "",
+                  "npc_id": 0,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "800004": {
+                  "parent_chapter": 800003,
+                  "difficulty": 3,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1200,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "800005": {
+                  "parent_chapter": 800004,
+                  "difficulty": 5,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1201,
+                  "vas_string_id": 0,
+                  "anime": 0
+                },
+                "800006": {
+                  "parent_chapter": 800005,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1020198,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1202,
+                  "vas_string_id": 0,
                   "anime": 0
                 }
               }
@@ -5725,6 +6471,11 @@
               "27": {
                 "2": [
                   350283
+                ]
+              },
+              "28": {
+                "2": [
+                  590004
                 ]
               },
               "10101": {
@@ -6190,6 +6941,11 @@
               "20006": {
                 "5": [
                   3006
+                ]
+              },
+              "20007": {
+                "5": [
+                  3007
                 ]
               }
             },
@@ -6710,6 +7466,11 @@
               "3006": {
                 "4": {
                   "1012056": 1
+                }
+              },
+              "3007": {
+                "4": {
+                  "1012079": 1
                 }
               }
             },
@@ -7774,6 +8535,16 @@
                   "17190": 3
                 }
               },
+              "13256": {
+                "2": {
+                  "13256": 3
+                }
+              },
+              "10253": {
+                "2": {
+                  "10253": 3
+                }
+              },
               "1120001": {
                 "12": {
                   "1120001": 1
@@ -8259,9 +9030,34 @@
                   "1012076": 1
                 }
               },
+              "1012077": {
+                "4": {
+                  "1012077": 1
+                }
+              },
+              "1012078": {
+                "4": {
+                  "1012078": 1
+                }
+              },
+              "1012079": {
+                "4": {
+                  "1012079": 1
+                }
+              },
+              "1012080": {
+                "4": {
+                  "1012080": 1
+                }
+              },
               "1020012": {
                 "5": {
                   "1020012": 1
+                }
+              },
+              "1020198": {
+                "5": {
+                  "1020198": 1
                 }
               },
               "1030030": {
@@ -8459,6 +9255,11 @@
                   "1071037": 1
                 }
               },
+              "1071038": {
+                "7": {
+                  "1071038": 1
+                }
+              },
               "1090006": {
                 "9": {
                   "1090006": 1
@@ -8573,691 +9374,13 @@
                 "13": {
                   "1130071": 1
                 }
+              },
+              "1130124": {
+                "13": {
+                  "1130124": 1
+                }
               }
             }
-          }
-        },
-        "Solo": {
-          "deck_info": {
-            "deck_id": 49910411,
-            "valid": true,
-            "possession": true,
-            "regulation": 1044
-          },
-          "cleared": {
-            "1": {
-              "10001": 3,
-              "10002": 3,
-              "10003": 3
-            },
-            "2": {
-              "20004": 3,
-              "20006": 3,
-              "20007": 3,
-              "20008": 3,
-              "20026": 3,
-              "20119": 3,
-              "20120": 3,
-              "20121": 3,
-              "20122": 3,
-              "20151": 3,
-              "20152": 3,
-              "20153": 3,
-              "20154": 3,
-              "20155": 3
-            },
-            "3": {
-              "30009": 3,
-              "30010": 3,
-              "30011": 3,
-              "30012": 3,
-              "30013": 3,
-              "30014": 3,
-              "30123": 3,
-              "30124": 3,
-              "30125": 3,
-              "30126": 3,
-              "30127": 3,
-              "30128": 3,
-              "30129": 3,
-              "30156": 3
-            },
-            "4": {
-              "40015": 3,
-              "40017": 3,
-              "40018": 3,
-              "40027": 3,
-              "40028": 3,
-              "40029": 3,
-              "40158": 3
-            },
-            "5": {
-              "50019": 3,
-              "50020": 3,
-              "50021": 3,
-              "50022": 3,
-              "50030": 3,
-              "50031": 3,
-              "50159": 3
-            },
-            "6": {
-              "60023": 3,
-              "60024": 3,
-              "60025": 3,
-              "60032": 3,
-              "60033": 3,
-              "60034": 3,
-              "60160": 3
-            },
-            "7": {
-              "70035": 3,
-              "70036": 3,
-              "70037": 3,
-              "70038": 3,
-              "70039": 3,
-              "70040": 3,
-              "70161": 3
-            },
-            "8": {
-              "80041": 3,
-              "80042": 3,
-              "80043": 3,
-              "80044": 3,
-              "80045": 3,
-              "80046": 3,
-              "80162": 3
-            },
-            "9": {
-              "90047": 3,
-              "90048": 3,
-              "90049": 3,
-              "90050": 3,
-              "90051": 3,
-              "90052": 3,
-              "90163": 3
-            },
-            "10": {
-              "100053": 3,
-              "100054": 3,
-              "100055": 3,
-              "100056": 3,
-              "100057": 3,
-              "100058": 3,
-              "100164": 3
-            },
-            "11": {
-              "110059": 3,
-              "110060": 3,
-              "110061": 3,
-              "110062": 3,
-              "110063": 3,
-              "110064": 3,
-              "110165": 3
-            },
-            "12": {
-              "120065": 3,
-              "120066": 3,
-              "120067": 3,
-              "120068": 3,
-              "120069": 3,
-              "120070": 3,
-              "120166": 3
-            },
-            "13": {
-              "130071": 3,
-              "130072": 3,
-              "130073": 3,
-              "130074": 3,
-              "130075": 3,
-              "130076": 3,
-              "130167": 3
-            },
-            "14": {
-              "140077": 3,
-              "140078": 3,
-              "140079": 3,
-              "140080": 3,
-              "140081": 3,
-              "140082": 3,
-              "140168": 3
-            },
-            "15": {
-              "150083": 3,
-              "150084": 3,
-              "150085": 3,
-              "150086": 3,
-              "150087": 3,
-              "150088": 3,
-              "150169": 3
-            },
-            "16": {
-              "160089": 3,
-              "160090": 3,
-              "160091": 3,
-              "160092": 3,
-              "160093": 3,
-              "160094": 3,
-              "160170": 3
-            },
-            "17": {
-              "170095": 3,
-              "170096": 3,
-              "170097": 3,
-              "170098": 3,
-              "170099": 3,
-              "170100": 3,
-              "170130": 3,
-              "170131": 3,
-              "170132": 3,
-              "170133": 3,
-              "170134": 3,
-              "170171": 3,
-              "170172": 3
-            },
-            "19": {
-              "190107": 3,
-              "190108": 3,
-              "190109": 3,
-              "190110": 3,
-              "190111": 3,
-              "190112": 3,
-              "190174": 3
-            },
-            "20": {
-              "200113": 3,
-              "200114": 3,
-              "200115": 3,
-              "200116": 3,
-              "200117": 3,
-              "200118": 3,
-              "200135": 3,
-              "200136": 3,
-              "200137": 3,
-              "200138": 3,
-              "200139": 3
-            },
-            "22": {
-              "220140": 3,
-              "220141": 3,
-              "220142": 3,
-              "220143": 3,
-              "220144": 3,
-              "220145": 3,
-              "220146": 3,
-              "220147": 3,
-              "220148": 3,
-              "220149": 3,
-              "220150": 3
-            },
-            "23": {
-              "230175": 3,
-              "230176": 3,
-              "230177": 3,
-              "230178": 3,
-              "230179": 3,
-              "230180": 3,
-              "230181": 3,
-              "230182": 3,
-              "230183": 3,
-              "230184": 3,
-              "230185": 3,
-              "230186": 3,
-              "230187": 3,
-              "230188": 3,
-              "230189": 3,
-              "230190": 3,
-              "230191": 3,
-              "230252": 3,
-              "230253": 3
-            },
-            "24": {
-              "240192": 3,
-              "240193": 3,
-              "240194": 3,
-              "240195": 3,
-              "240196": 3,
-              "240197": 3,
-              "240198": 3
-            },
-            "25": {
-              "250199": 3,
-              "250200": 3,
-              "250201": 3,
-              "250202": 3,
-              "250203": 3,
-              "250204": 3,
-              "250205": 3
-            },
-            "26": {
-              "260206": 3,
-              "260207": 3,
-              "260208": 3,
-              "260209": 3,
-              "260210": 3,
-              "260211": 3,
-              "260212": 3,
-              "260213": 3,
-              "260214": 3
-            },
-            "27": {
-              "270215": 3,
-              "270216": 3,
-              "270217": 3,
-              "270218": 3,
-              "270219": 3,
-              "270220": 3,
-              "270221": 3,
-              "270222": 3
-            },
-            "28": {
-              "280223": 3,
-              "280224": 3,
-              "280225": 3,
-              "280226": 3,
-              "280227": 3,
-              "280228": 3,
-              "280229": 3
-            },
-            "29": {
-              "290230": 3,
-              "290231": 3,
-              "290232": 3,
-              "290233": 3,
-              "290234": 3,
-              "290235": 3,
-              "290236": 3,
-              "290237": 3,
-              "290238": 3,
-              "290239": 3,
-              "290240": 3
-            },
-            "30": {
-              "300241": 3,
-              "300242": 3,
-              "300243": 3,
-              "300244": 3,
-              "300245": 3,
-              "300246": 3,
-              "300247": 3,
-              "300248": 3,
-              "300249": 3,
-              "300250": 3,
-              "300251": 3,
-              "300254": 3
-            },
-            "32": {
-              "320255": 3,
-              "320256": 3,
-              "320257": 3,
-              "320258": 3,
-              "320259": 3,
-              "320260": 3,
-              "320261": 3,
-              "320262": 3
-            },
-            "33": {
-              "330263": 3,
-              "330264": 3,
-              "330265": 3,
-              "330266": 3,
-              "330267": 3,
-              "330268": 3,
-              "330269": 3,
-              "330270": 3,
-              "330271": 3
-            },
-            "34": {
-              "340272": 3,
-              "340273": 3,
-              "340274": 3,
-              "340275": 3,
-              "340276": 3,
-              "340277": 3,
-              "340278": 3,
-              "340279": 3
-            },
-            "35": {
-              "350280": 3,
-              "350281": 3,
-              "350282": 3,
-              "350283": 3,
-              "350284": 3,
-              "350285": 3,
-              "350286": 3
-            },
-            "36": {
-              "360287": 3,
-              "360288": 3,
-              "360289": 3,
-              "360290": 3,
-              "360291": 3,
-              "360292": 3,
-              "360293": 3
-            },
-            "37": {
-              "370294": 3,
-              "370295": 3,
-              "370296": 3,
-              "370297": 3,
-              "370298": 3,
-              "370299": 3,
-              "370300": 3,
-              "370301": 3,
-              "370302": 3,
-              "370303": 3
-            },
-            "38": {
-              "380304": 3,
-              "380305": 3,
-              "380306": 3,
-              "380307": 3,
-              "380308": 3,
-              "380309": 3,
-              "380310": 3
-            },
-            "39": {
-              "390311": 3,
-              "390312": 3,
-              "390313": 3,
-              "390314": 3,
-              "390315": 3,
-              "390316": 3,
-              "390317": 3,
-              "390318": 3
-            },
-            "40": {
-              "400319": 3,
-              "400320": 3,
-              "400321": 3,
-              "400322": 3,
-              "400323": 3,
-              "400324": 3,
-              "400325": 3
-            },
-            "41": {
-              "410326": 3,
-              "410327": 3,
-              "410328": 3,
-              "410329": 3,
-              "410330": 3,
-              "410331": 3,
-              "410332": 3
-            },
-            "42": {
-              "420333": 3,
-              "420334": 3,
-              "420335": 3,
-              "420336": 3,
-              "420337": 3,
-              "420338": 3,
-              "420339": 3
-            },
-            "43": {
-              "430340": 3,
-              "430341": 3,
-              "430342": 3,
-              "430343": 3,
-              "430344": 3,
-              "430345": 3,
-              "430346": 3,
-              "430347": 3
-            },
-            "44": {
-              "440348": 3,
-              "440349": 3,
-              "440350": 3,
-              "440351": 3,
-              "440352": 3,
-              "440353": 3,
-              "440354": 3,
-              "440355": 3,
-              "440356": 3,
-              "440357": 3,
-              "440358": 3,
-              "440359": 3,
-              "440360": 3,
-              "440361": 3,
-              "440362": 3,
-              "440363": 3
-            },
-            "45": {
-              "450364": 3,
-              "450365": 3,
-              "450366": 3,
-              "450367": 3,
-              "450368": 3,
-              "450369": 3,
-              "450370": 3
-            },
-            "46": {
-              "460371": 3,
-              "460372": 3,
-              "460373": 3,
-              "460374": 3,
-              "460375": 3,
-              "460376": 3,
-              "460377": 3
-            },
-            "47": {
-              "470378": 3,
-              "470379": 3,
-              "470380": 3,
-              "470381": 3,
-              "470382": 3,
-              "470383": 3,
-              "470384": 3,
-              "470385": 3
-            },
-            "48": {
-              "480386": 3,
-              "480387": 3,
-              "480388": 3,
-              "480389": 3,
-              "480390": 3,
-              "480391": 3
-            },
-            "49": {
-              "490392": 3,
-              "490393": 3,
-              "490394": 3,
-              "490395": 3,
-              "490396": 3,
-              "490397": 3,
-              "490398": 3,
-              "490399": 3
-            },
-            "50": {
-              "500400": 3,
-              "500401": 3,
-              "500402": 3,
-              "500403": 3,
-              "500404": 3,
-              "500405": 3,
-              "500406": 3
-            },
-            "52": {
-              "520407": 3,
-              "520408": 3,
-              "520409": 3,
-              "520410": 3,
-              "520411": 3,
-              "520412": 3,
-              "520413": 3
-            },
-            "53": {
-              "530414": 3,
-              "530415": 3,
-              "530416": 3,
-              "530417": 3,
-              "530418": 3,
-              "530419": 3,
-              "530420": 3
-            },
-            "54": {
-              "540421": 3,
-              "540422": 3,
-              "540423": 3,
-              "540424": 3,
-              "540425": 3,
-              "540426": 3,
-              "540427": 3
-            },
-            "55": {
-              "550428": 3,
-              "550429": 3,
-              "550430": 3,
-              "550431": 3,
-              "550432": 3,
-              "550433": 3,
-              "550434": 3
-            },
-            "56": {
-              "560435": 3,
-              "560436": 3,
-              "560437": 3,
-              "560438": 3,
-              "560439": 3,
-              "560440": 3
-            },
-            "57": {
-              "570441": 3,
-              "570442": 3,
-              "570443": 3,
-              "570444": 3,
-              "570445": 3,
-              "570446": 3,
-              "570447": 3,
-              "570448": 3
-            },
-            "59": {
-              "590001": 3,
-              "590002": 3,
-              "590003": 3,
-              "590004": 3,
-              "590005": 3,
-              "590006": 3,
-              "590007": 3
-            },
-            "67": {
-              "670500": 3,
-              "670501": 3
-            },
-            "68": {
-              "680502": 3,
-              "680503": 3
-            },
-            "69": {
-              "690504": 3,
-              "690505": 3
-            },
-            "70": {
-              "700506": 3,
-              "700507": 3,
-              "700508": 3,
-              "700509": 3,
-              "700510": 3,
-              "700511": 3,
-              "700512": 3
-            },
-            "71": {
-              "710001": 3,
-              "710002": 3,
-              "710003": 3,
-              "710004": 3,
-              "710005": 3,
-              "710006": 3,
-              "710007": 3,
-              "710008": 3,
-              "710009": 3,
-              "710010": 3
-            },
-            "73": {
-              "730001": 3,
-              "730002": 3
-            },
-            "74": {
-              "740001": 3,
-              "740002": 3
-            },
-            "76": {
-              "760001": 3,
-              "760002": 3,
-              "760003": 1,
-              "760004": 3,
-              "760005": 3,
-              "760006": 1,
-              "760007": 3,
-              "760008": 3,
-              "760009": 1
-            }
-          },
-          "last_play_date": {
-            "1": 1757515955,
-            "2": 1757518677,
-            "3": 1757518713,
-            "4": 1757518653,
-            "5": 1757518622,
-            "6": 1757518831,
-            "7": 1757518662,
-            "8": 1757518689,
-            "9": 1757518727,
-            "10": 1757518749,
-            "11": 1757518775,
-            "12": 1757518801,
-            "13": 1757518844,
-            "14": 1757518866,
-            "15": 1757518891,
-            "16": 1757518915,
-            "17": 1757518939,
-            "19": 1757518987,
-            "20": 1757519011,
-            "22": 1757519089,
-            "23": 1757519115,
-            "24": 1757519155,
-            "25": 1757519176,
-            "26": 1757519218,
-            "27": 1757519247,
-            "28": 1757519274,
-            "29": 1757519300,
-            "30": 1757519367,
-            "32": 1757519405,
-            "33": 1757519432,
-            "34": 1757519462,
-            "35": 1757519488,
-            "36": 1757519516,
-            "37": 1757519544,
-            "38": 1757519572,
-            "39": 1757519598,
-            "40": 1757519626,
-            "41": 1757519655,
-            "42": 1757519681,
-            "43": 1757519707,
-            "44": 1757519733,
-            "45": 1757519780,
-            "46": 1757519807,
-            "47": 1757519834,
-            "48": 1757519864,
-            "49": 1757519882,
-            "50": 1757519909,
-            "52": 1757519936,
-            "53": 1757519962,
-            "54": 1757519988,
-            "55": 1757520014,
-            "56": 1757520042,
-            "57": 1757520066,
-            "59": 1757520094,
-            "67": 1757520120,
-            "68": 1757520128,
-            "69": 1757520135,
-            "70": 1757524356,
-            "71": 1757520170,
-            "73": 1757520200,
-            "74": 1757520208,
-            "76": 1760010252
-          },
-          "recommend": {
-            "1": 76,
-            "2": 9
           }
         }
       },
